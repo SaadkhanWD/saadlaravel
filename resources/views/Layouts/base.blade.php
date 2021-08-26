@@ -26,6 +26,7 @@
   <body>
   
   <div class="site-wrap">
+  @include('layouts.navigation')
     <header class="site-navbar" role="banner">
       <div class="site-navbar-top">
         <div class="container">
