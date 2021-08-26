@@ -43,7 +43,7 @@
     @livewireStyles
   </head>
   <body>
-  
+  @include('layouts.navigation')
   <div class="site-wrap">
     <header class="site-navbar" role="banner">
       <div class="site-navbar-top">
