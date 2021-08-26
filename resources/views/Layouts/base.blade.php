@@ -20,6 +20,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('css/style2.css')}}">
     <link rel="stylesheet" href="{{asset('css/login.css')}}">
     <link rel="stylesheet" href="{{asset('css/font-awesome.min.css')}}">
+    <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     
     @livewireStyles
   </head>
